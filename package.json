@@ -16,7 +16,7 @@
     "jwt"
   ],
   "dependencies": {
-    "jsonwebtoken": "^8.3.0",
+    "jsonwebtoken": "^9.0.0",
     "koa-jwt2": "^1.0.3",
     "nodejs-base64": "^1.0.3"
   },
